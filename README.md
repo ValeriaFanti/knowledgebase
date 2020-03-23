@@ -20,7 +20,7 @@ Articles will be a mix of rich media, such as markdown, images, gif, videos, eit
 
 #### Web Services (API)
 
-#### Education
+#### Training - Education
 
 #### Marketplace
 
