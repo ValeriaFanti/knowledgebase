@@ -24,10 +24,10 @@ Articles will be a mix of rich media, such as markdown, images, gif, videos, eit
 
 #### Marketplace
 
-#### Account & Privacy
+#### Account - Privacy
 
-#### Roadmap & Change Log
+#### Roadmap - Change Log
 
-#### Service Reports & Surveys
+#### Service Reports - Surveys
 
-#### Support & Feedback
+#### Support - Feedback
