@@ -1,6 +1,6 @@
 ## Jupyter
 
-Copernicus Marine Trainings are "Users & Data Driven Discoveries", where we will use data as one driver (but not only) to discover new things. In order to do this discovery, we are going to need some tools to help us out. The most basic tool we will use is the Python programming language. At a later stage, we will use R programming language. We start with Python because it is a language that is particularly strong at processing data and has a massive number libraries developed by other people that will help us achieving almost any needs.
+Copernicus Marine Trainings are "Users & Data Driven Discoveries", where we will use data as one driver (but not only) to discover new things. In order to do this discovery, we are going to need some tools to help us out. The most basic tool we will use is the Python programming language. At a later stage, we will use R programming language. We start with Python because it is a language that is particularly strong at processing data and has a massive number of libraries developed by its worldwide community that will help us achieving almost any needs.
 
 There are least three ways to run Copernicus Marine Training contents:
 1. On the cloud, [without installing anything](https://github.com/copernicusmarine/knowledgebase/new/master#no-installation), requiring only a web browser and internet connection
