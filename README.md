@@ -26,8 +26,8 @@ Articles will be a mix of rich media, such as markdown, images, gif, videos, eit
 
 #### Account & Privacy
 
-#### Portfolio RoadMap
+#### Roadmap & Change Log
 
 #### Service Reports & Surveys
 
-#### Support
+#### Support & Feedback
