@@ -28,7 +28,7 @@ Python itself is a programming language and you could install "just" Python. How
 To create your Copernicus Marine Environment:
 1. Open up the `Anaconda Prompt` command line interface and navigate to the directory of your choice._<br>**Note**: The default directory is ok, but it should be better to create a specific one, e.g. run:_<br>`python -c "import os; os.makedirs('copernicus')"; cd copernicus`<br>
 2. To install the required modules, run this one line command:<br>
-`conda create -n copernicus -c conda-forge python=3.7 jupyter xarray pathlib scipy matplotlib numpy pandas netcdf4 cartopy ftputil basemap openssl=1.1.1d --yes`<br>
+`conda create -n copernicus -c conda-forge python=3.7 jupyter xarray pathlib scipy matplotlib numpy pandas netcdf4 cartopy ftputil basemap openssl !=1.1.1e --yes`<br>
 3. Once the `copernicus` environment is successfully installed, you should see something like:
 ```
 [...]
