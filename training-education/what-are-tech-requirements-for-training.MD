@@ -9,7 +9,7 @@ There are least three ways to run Copernicus Marine Training contents:
 
 ## No installation
 
-Pass.
+Pass. _To be updated by June 2020 to display access to `Copernicus JupyterHub`._
 
 ## Minimal Installation
 
