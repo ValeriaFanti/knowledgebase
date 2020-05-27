@@ -1,4 +1,4 @@
-# Jupyter
+# Copernicus Marine meets Jupyter for Training
 
 ![CopernicusMarine screenshot](https://github.com/copernicusmarine/copernicus-jupyter-notebook-gallery/blob/master/copernicus-marine-jupyter-overview.png "CopernicusMarine screenshot")
 
